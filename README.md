@@ -1,14 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=R+A+M+A+G+A+N+S++I+D" />
 </p>
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
-
-![fisabiliyusri's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=fisabiliyusri&pattern=leaf&colorPattern=%23eaeaea)
+<p align='center'><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 
 <h2 align="center">
 Auto Script Install All VPN Service
-Mod By SL
+Mod By RamaGans ID
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -21,11 +19,11 @@ Mod By SL
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
 ### Script Khusus Xray Multi Port TERBARU
-https://github.com/fisabiliyusri/XRAY-MANTAP
+
 ### Script Khusus Xray Multi Port TERBARU
 
 ### Link Grup FB: 
-https://www.facebook.com/groups/1880372362109422/?ref=share
+
 ### Info:
 * HARAP DI BACA & UTAMAKAN MEMBACA
 # INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
@@ -48,7 +46,7 @@ su
 
 ### Link Video Tutorial Cara Install
 ```html
-https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
+OTW DI YT BBX
 ```
 
 ## INFO TAMBAHAN , SILAHKAN DI BACA 
@@ -59,7 +57,7 @@ https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
 * • Debian 10 & 9
 atau
 * • Ubuntu 18.04 & 20.04
-* Working For VPS AWS,AZURE,DO
+* Working For VPS ALIBABA,AWS,AZURE,DO,BIZNETGIO
 ## Installation 
 ## 1.
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
@@ -111,8 +109,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 * • 22, 2253
 
 ### Jangan Lupa Traktir Kopi
-<a href="https://trakteer.id/sulaiman-l/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
-https://trakteer.id/sulaiman-l/tip
+<a href="https://sociabuzz.com/bbxhost69/donate" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Sociabuzz Saya"></a>
+https://sociabuzz.com/bbxhost69/donate
 
 ### 5. MENU, INFO ,UPDATE ,FIX
 * untuk menampilkan menu
@@ -301,7 +299,7 @@ reboot
 
 • Websocket SSH TLS         : 443
 
-• Websocket SSH HTTP        : 8880
+• Websocket SSH HTTP        : 8880, 2082
 
 • Websocket OpenVPN         : 2086
 
@@ -382,17 +380,12 @@ reboot
 
 • Auto Update
 
-<p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
-</p>
+
 <div height='45' align="center">
 <h2>Contact me: <br>
-<a href="https://github.com/fisabiliyusri"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+<a href="https://github.com/BrebesBlackXploit"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
+<a href="https://facebook.com/ramagans.id"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://sociabuzz.com/bbxhost69/donate"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 </div>
-<h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisabiliyusri&layout=compact&theme=dark">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=fisabiliyusri&count_private=true&show_icons=true&theme=dark">
-<h2 align="center">
+
